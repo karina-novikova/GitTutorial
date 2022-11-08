@@ -34,5 +34,5 @@
 * *git branch branch_name* - команда создания новой ветки;
 * *git checkout branch_name* - команда для перехода между ветками;
 
-
+* *Secret3* - non info
 ## Базовые термины третьего семинара
